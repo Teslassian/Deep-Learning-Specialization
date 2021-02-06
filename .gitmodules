@@ -1,0 +1,9 @@
+[submodule "1_Neural_Networks_and_Deep_Learning/Week_2/DLSU--Logistic_Regression_with_a_Neural_Network_Mindset"]
+	path = 1_Neural_Networks_and_Deep_Learning/Week_2/DLSU--Logistic_Regression_with_a_Neural_Network_Mindset
+	url = https://github.com/Teslassian/DLSU--Logistic_Regression_with_a_Neural_Network_Mindset.git
+[submodule "1_Neural_Networks_and_Deep_Learning/Week_3/DLSU--Planar_data_classification_with_one_hidden_layer"]
+	path = 1_Neural_Networks_and_Deep_Learning/Week_3/DLSU--Planar_data_classification_with_one_hidden_layer
+	url = https://github.com/Teslassian/DLSU--Planar_data_classification_with_one_hidden_layer.git
+[submodule "1_Neural_Networks_and_Deep_Learning/Week_4/DLSU--Deep_Neural_Network"]
+	path = 1_Neural_Networks_and_Deep_Learning/Week_4/DLSU--Deep_Neural_Network
+	url = https://github.com/Teslassian/DLSU--Deep_Neural_Network.git

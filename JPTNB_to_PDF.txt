@@ -1,0 +1,3 @@
+download as notebook
+
+jupyter-nbconvert --to PDFviaHTML example.ipynb

@@ -1,0 +1,9 @@
+Paste this in the notebook and run the cell:
+
+!tar chzf notebook_ex2.tgz --exclude notebook_ex2.tgz *
+
+pip install ipython
+
+pip install nbconvert
+
+ipython nbconvert --to script abc.ipynb
